@@ -1,0 +1,14 @@
+node_modules
+.nuxt
+.output
+.vercel
+.data
+dist
+.env
+.env.*
+!.env.example
+.yarn/cache
+.yarn/install-state.gz
+.yarn/unplugged
+*.log
+.DS_Store
